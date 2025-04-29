@@ -17,21 +17,21 @@ global.SESSION_ID = process.env.SESSION_ID || 'default_session'; // Utilisez une
 global.SESSION_FILE = path.join(global.SESSION_DIR, `${global.SESSION_ID}.json`);
 
 //contact details
-global.ownernumber = [process.env.OWNER_NUMBER || "24105114159"];
-global.ownername = process.env.OWNER_NAME || "𓆩𝐓𝐎𝐆𝐄𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈";
+global.ownernumber = [process.env.OWNER_NUMBER || "201508220480"];
+global.ownername = process.env.OWNER_NAME || "Guts|Ahmed";
 global.ytname = "YT: kenzo3146";
 global.socialm = "GitHub: toge012345";
 global.location = "Africa";
 
-global.botname = process.env.BOTNAME || "𝐓𝐎𝐆𝐄-𝐌𝐃-𝐕𝟑"; //name of the bot
+global.botname = process.env.BOTNAME || "Gutso-𝐌𝐃-𝐕𝟑"; //name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "𝐓𝐎𝐆𝐄-𝐌𝐃-𝐕𝟑";
+global.stickername = process.env.STICKER || "Gutso-𝐌𝐃-𝐕𝟑";
 global.packname = 'Sticker By';
-global.author = process.env.AUTHOR || "𓆩𝐓𝐎𝐆𝐄𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈";
+global.author = process.env.AUTHOR || "Guts|Ahmed";
 //console view/theme
 global.themeemoji = '𓅃';
-global.wm = "𝐓𝐎𝐆𝐄_𝐁𝐎𝐓 𝐈𝐧𝐜 ✨";
+global.wm = "Guts_𝐁𝐎𝐓 𝐈𝐧𝐜 ✨";
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaiuD4s4IBhI0fzbv40Z';
